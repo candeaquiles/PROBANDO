@@ -1,0 +1,2 @@
+//State Uplifting : (subir estado hacia arriba) Para que el componente hijo, le pase informacion al componente padre.
+Para que el funcione, el padre suele tener un metodo y un estado. El metodo es para actualizar el estado. El estado para guardar la data, el metodo se lo pasa al hijo. El hijo ejecuta el metodo. El hijo actualiza el estado. El padre actualiza el estado

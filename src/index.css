@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+body{
+  background : rgba(0, 0, 0, 0.877);
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.conte{
+  height: 400px;
+  width: 20%;
+  box-shadow: 0 0 7px #111;
+  margin: 0 30px;
+}
+
+.conte .card{
+  height: 200px;
+  width: 100%;
+  margin-bottom: 170px;
+}
+
+.card img{
+  margin: auto;
+  display: block;
+
+}
+
